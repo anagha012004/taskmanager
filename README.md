@@ -8,6 +8,8 @@
 - Add tasks
 - View tasks
 - Update tasks
+- Mark as Completed
+- Search Task
 - Delete tasks
 
 ### Developer-side features
@@ -99,3 +101,14 @@ Following are the major dev-dependencies of the project:
    ```
 
 4. Go to http://localhost:3000
+
+## Screnshots
+## Home Page
+![image](https://github.com/anagha012004/taskmanager/blob/main/Screenshot%20(393).png)
+## SignUp
+![image](https://github.com/anagha012004/taskmanager/blob/main/Screenshot%20(394).png)
+## SignIn
+![image](https://github.com/anagha012004/taskmanager/blob/main/Screenshot%20(395).png)
+## Task Manager Page
+![image](https://github.com/anagha012004/taskmanager/blob/main/Screenshot%202024-11-15%20151428.png)
+![image](https://github.com/anagha012004/taskmanager/blob/main/Screenshot%202024-11-15%20151701.png)
