@@ -10,6 +10,10 @@ const taskSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  completed: {
+    type: Boolean,
+    default: false // Default to false when a task is created
+  }
 }, {
   timestamps: true
 });
